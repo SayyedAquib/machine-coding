@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/machine-coding/static/css/main.c9129b60.css",
+    "main.js": "/machine-coding/static/js/main.bb3d5470.js",
+    "static/js/453.2ddf5031.chunk.js": "/machine-coding/static/js/453.2ddf5031.chunk.js",
+    "index.html": "/machine-coding/index.html",
+    "main.c9129b60.css.map": "/machine-coding/static/css/main.c9129b60.css.map",
+    "main.bb3d5470.js.map": "/machine-coding/static/js/main.bb3d5470.js.map",
+    "453.2ddf5031.chunk.js.map": "/machine-coding/static/js/453.2ddf5031.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9129b60.css",
+    "static/js/main.bb3d5470.js"
+  ]
+}
