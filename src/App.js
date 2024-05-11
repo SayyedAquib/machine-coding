@@ -1,7 +1,9 @@
+import Body from "./components/infinite-scroll/Body";
+
 function App() {
   return (
-    <div className="w-svw h-svh m-auto bg-gray-700">
-      <h1 className="text-3xl text-white font-bold underline">Hello world!</h1>
+    <div className="w-full h-full bg-gray-700">
+      <Body />
     </div>
   );
 }
